@@ -19,7 +19,7 @@
     "vue-pull-refresh": "^0.2.7",
     "vue-router": "^3.0.1"
   },
-  "homepage": "https://vimalate.github.io/music",
+  "homepage": "https://vimalate.github.io/music/",
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
